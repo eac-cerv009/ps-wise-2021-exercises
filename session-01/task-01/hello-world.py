@@ -1,1 +1,1 @@
-print("Hello World!")
+print("Testing Python environment: Hallo Welt aus Universität Passau!!!")
